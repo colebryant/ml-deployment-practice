@@ -2,7 +2,7 @@
 
 **Purpose**: To practice some of the skills I’ve learned, try out new technologies I haven’t, and see what it takes to deploy a micro-scale “production” ML service. Bare-bones, and may choose to expand on in the future. Not focusing on the modeling / data science workflow as much as the infrastructure and software components.
 
-* Idea: Create and deploy an endpoint which receives a picture of a handwritten number (i.e. MNIST dataset) and simply returns the prediction.
+* **Idea**: Create and deploy an endpoint which receives a picture of a handwritten number (i.e. MNIST dataset) and simply returns the prediction.
 * Preliminary design:
 <img src="Diagrams/diagram1.jpeg" width="700"/>
 * General Thoughts: 
