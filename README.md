@@ -4,14 +4,14 @@
 
 * **Idea**: Create and deploy an endpoint which receives a picture of a handwritten number (i.e. MNIST dataset) and simply returns the prediction.
 * Preliminary design:
-<img src="Diagrams/diagram1.jpeg" width="800"/>
+<img src="Diagrams/diagram1.jpeg" width="600"/>
 
 * General Thoughts: 
   * This is just a simple endpoint, but using some relevant technologies including containerized deployment with Docker, and FastAPI as a performant API framework
   * Just using Postman as stand in for web client for now
   * May change to using AWS SQS for distributed version of service, and use FastAPI for a separate the web server
 * Potential Future Version:
-<img src="Diagrams/diagram2.jpeg" width="800"/>
+<img src="Diagrams/diagram2.jpeg" width="600"/>
 
 ### My Steps So Far:
 
